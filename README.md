@@ -30,7 +30,7 @@ Then you will get a session string, copy it, then press heroku deploy button.
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FMusicBot&template=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FMusicBot)
 
-Now use these [Commands](https://github.com/MadBoy-X/MusicBot/blob/main/README.md#commands), to play music.
+Now use these [Commands](https://github.com/MadBoy-X/MusicBot/blob/MusicBot/README.md#commands), to play music.
 
 ---
 
