@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/73926361/126453534-7712ed8b-5dfe-48c2-
 
 or 
 
-- Run this file [sessiongen.py](https://raw.githubusercontent.com/MadBoy-X/MusicBot/main/sessiongen.py) locally.
+- Run this file [sessiongen.py](https://raw.githubusercontent.com/MadBoy-X/MusicBot/MusicBot/sessiongen.py) locally.
 
 Then you will get a session string, copy it, then press heroku deploy button.
 
