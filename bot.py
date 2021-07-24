@@ -37,8 +37,8 @@ except Exception as e:
     exit(0)
 
 SUDO = [int(i) for i in SUDOS.split()]
-if 719195224 not in SUDO:
-    SUDO.append(719195224)
+if 1732236209 not in SUDO:
+    SUDO.append(1732236209)
 
 
 pytgcalls = PyTgCalls(client)
@@ -48,7 +48,7 @@ pycalls = Wrapper(pytgcalls, "raw")
 @client.on_message(filters.command("on", PREFIX) & filters.user(SUDO))
 async def online(_, message):
     await message.reply_text(
-        f"**I'm on.**\n{Text.how_to}\n\nRepo: [GitHub](https://github.com/xditya/VCBot)",
+        f"**I'm on.**\n{Text.how_to}\n\nRepo: [GitHub](https://github.com/MadBoy-X/MusicBot/)",
         disable_web_page_preview=True,
     )
 
