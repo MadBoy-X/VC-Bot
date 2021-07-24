@@ -10,7 +10,7 @@ class Text:
   - `{x}resume` - __resumes the paused track.__
   - `{x}song <song name>` - __donwload the song.__
 
-**Support:** __@BotzHubChat__."""
+**Support:** __@TeslaRobo_Chat__."""
 
 
 async def play_a_song(pycalls, message, song):
