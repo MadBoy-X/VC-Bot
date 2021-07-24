@@ -1,26 +1,27 @@
 {
-    "name": "VCBot",
-    "description": "Just another Telegram VCBot, to stream songs in VC",
+    "name": "Tesla MusicBot",
+    "description": "Telegram VoiceChat Bot, Written In Python Using Pytgcalls & Pyrogram.",
     "keywords": [
         "telegram",
-        "vc bot"
+        "MusicBot"
     ],
-    "repository": "https://github.com/xditya/VCBot/",
-    "success_url": "https://t.me/BotzHub",
+    "logo": "https://imgur.com/HYdV6PJ.png",
+    "repository": "https://github.com/MadBoy-X/MusicBot/",
+    "success_url": "https://github.com/MadBoy-X/MusicBot/",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org!l",
+            "description": "Get this value from my.telegram.org !",
             "value": "",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org!",
+            "description": "Get this value from my.telegram.org !",
             "value": "",
             "required": true
         },
         "SESSION": {
-            "description": "A pyrogram session, get this value by running python3 sessiongen.py locally.",
+            "description": "A pyrogram session, Get it from here https://replit.com/@madboy482/Pyrogram-Session or get it by running python3 sessiongen.py locally.",
             "value": "",
             "required": true
         },
